@@ -6,4 +6,4 @@
 <p>Obrigado de verdade, e lembre-se: estou sempre a um GIF de distância de tornar seu dia melhor! 🕺</p>
 <h1>DEVELOPED: BY MIGUELITO</h1>
 
-<p>Em caso de investigação policial, eu João Pedro, declaro que não tenho envolvimento com este grupo e não sei como estou no mesmo, provavelmente fui inserido por terceiros, declaro que estou disposto a colaborar com as investigações e estou disposto a me apresentar a depoimento se necessário</p>
+<p>Em caso de investigação policial, eu João Pedro, dono do Perfil do GIT declaro que não tenho envolvimento com este grupo e não sei como estou no mesmo, provavelmente fui inserido por terceiros, declaro que estou disposto a colaborar com as investigações e estou disposto a me apresentar a depoimento se necessário</p>
