@@ -4,3 +4,4 @@
 <p>Imagine como eu ficaria feliz – quase tão feliz quanto esse pinguim dançante:</p>
 <p>Então, que tal discutirmos isso com um café? ☕ Eu trago as <span class="highlight">piadas</span> e você traz as boas notícias! 😄</p>
 <p>Obrigado de verdade, e lembre-se: estou sempre a um GIF de distância de tornar seu dia melhor! 🕺</p>
+<h1>DEVELOPED: BY MIGUELITO</h1>
